@@ -1,0 +1,12 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     C:\Users\CH3353\Documents\Arma 3 - Other Profiles\GNK\mpmissions\CO21_Operation_Blackout.Chernarus\ 
+Mission fodler name:   CO21_Operation_Blackout 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing Support 
+    Folder is not used: Removing InteractivesACE 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing EditorRadioSettings 
+Done! 
