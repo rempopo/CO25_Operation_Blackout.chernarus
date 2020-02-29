@@ -3,11 +3,12 @@
 
 <img src='https://raw.githubusercontent.com/rempopo/CO23_Operation_Blackout.chernarus/master/overview.jpg' />
 
-### Version: 1B
+### Version: 1C
 
 ### Changelog:
-- Framework updated to latest on 18.01.2018 
-...
+- Framework updated to latest on 29.02.2020
+- Исправлены скрипты на отключение света и на подрыв бомб
+- Миссия перенесена на Chernarus 2020
 
 # NOT APPROVED
 | Reviewer | Result |
