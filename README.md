@@ -13,5 +13,5 @@
 # NOT APPROVED
 | Reviewer | Result |
 | ------------ | ------------- |
-| Vocasyan | - |
+| Vocasyan | APPROVED |
 | - | - |
